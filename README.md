@@ -3,15 +3,22 @@ An open source unity shader designed to emulate the look of Halo Infinite's shad
 
 This was designed for use in VRChat, but may be used in other non-profit applications in Unity
 
+No files in any part of this repository contains or will be allowed to contain copyrighted work that does not belong to the owners of the submission
+
+All versions of this shader, it's derivatives, and similar shaders that use this shader for information, must be open source and available to all free of charge
+
 ----------------------------------------------------------------------------------------------
 
 Original Shader made in Unreal Engine 4 by R93 Sniper
 
 Unity Amplify Shader port by PointDevice
 
+This shader exclusively belongs to R93 Sniper and PointDevice
+
 ----------------------------------------------------------------------------------------------
 
 THIS MAY NOT BE USED FOR COMMERCIAL PURPOSES
+
 
 
 
@@ -23,3 +30,10 @@ Installation Instructions
 3. Place both in the same folder of your unity project
 
 You should now have the shader as an option under Halo Infinite / Armor Base
+
+
+Usage Instructions
+----------------------------------------------------------------------------------------------
+- All Textures must be marked with sRGB off
+- Zone 6 is always considered to be the grunge map
+- If your item only has 1 CC map, put it in the CC2 slot
