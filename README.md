@@ -37,3 +37,10 @@ Usage Instructions
 - All Textures must be marked with sRGB off
 - Zone 6 is always considered to be the grunge map
 - If your item only has 1 CC map, put it in the CC2 slot
+
+Change Log
+----------------------------------------------------------------------------------------------
+
+v0.2 - some changes to how the mtallic value is used, and blending of the detail tileables
+
+v0.1 initial release, no notes 
