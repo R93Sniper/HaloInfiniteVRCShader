@@ -41,6 +41,15 @@ Usage Instructions
 Change Log
 ----------------------------------------------------------------------------------------------
 
-v0.2 - some changes to how the mtallic value is used, and blending of the detail tileables
+v0.35 - Yin and Yang - first major release 
+	-renamed to standard 
+	-some variables renamed to be more clear to the end user 
+	-some internal variable names changed to line up with their equivalents in standard for vrchat fallbacks
+	- added advanced version which presents more features for fine tuning such as:
+		= per zone metallic and roughness
+		= takes into account the dust layer 
+		= changes to how emissives are handeled internally 
+
+v0.2 - some changes to how the metallic value is used, and blending of the detail tileables
 
 v0.1 initial release, no notes 
