@@ -7,6 +7,8 @@ No files in any part of this repository contains or will be allowed to contain c
 
 All versions of this shader, it's derivatives, and similar shaders that use this shader for information, must be open source and available to all free of charge
 
+[If You Are Looking For The Download Link, Click Here, And Download The 'Source Code (.zip)'](https://github.com/R93Sniper/HaloInfiniteVRCShader/releases/latest)
+
 ----------------------------------------------------------------------------------------------
 
 Original Shader made in Unreal Engine 4 by R93 Sniper
