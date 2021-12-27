@@ -7,6 +7,8 @@ No files in any part of this repository contains or will be allowed to contain c
 
 All versions of this shader, it's derivatives, and similar shaders that use this shader for information, must be open source and available to all free of charge
 
+THIS MAY NOT BE USED FOR COMMERCIAL PURPOSES
+
 [If You Are Looking For The Download Link, Click Here, And Download The 'Source Code (.zip)'](https://github.com/R93Sniper/HaloInfiniteVRCShader/releases/latest)
 
 ----------------------------------------------------------------------------------------------
@@ -19,7 +21,7 @@ This shader exclusively belongs to R93 Sniper and PointDevice
 
 ----------------------------------------------------------------------------------------------
 
-THIS MAY NOT BE USED FOR COMMERCIAL PURPOSES
+
 
 
 
@@ -27,7 +29,7 @@ THIS MAY NOT BE USED FOR COMMERCIAL PURPOSES
 
 Installation Instructions
 ----------------------------------------------------------------------------------------------
-1. Download the Shader (as of writing, it is only the armor and visor shader)
+1. Download the Shader you want (as of writing; Armor Standard, Armor Advanced, Visor)
 2. Download the MaterialFunction
 3. Place both in the same folder of your unity project
 
