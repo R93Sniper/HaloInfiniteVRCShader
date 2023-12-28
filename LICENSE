@@ -1,13 +1,29 @@
-"Halo People Are Morons" HPAM License
+# HPAM license v1.0.0
 
-Any files or resources required for usage will hereby be referred to as "content". All content provided with the following terms:
+## Definitions
+"Content" Refers to any files or information that is hosted on a repository which includes this license
 
-- All content is provided as-is without warranty of any kind, express or implied.
-- All content follows the rules set out by Microsoft in their Game Content Usage Rules "GCUR" (https://www.xbox.com/en-US/developers/rules).
-- All content that uses this license does so retroactively and perpetually unless the owner decides otherwise.
-- All content is non-commercial and cannot be used for any monetary gain whatsoever. This includes but is not limited to: commisions, advertisements, artwork, and games
-- All modifications made to content must be posted in a public, widespread, and easily accessible manner. This is preferred to be via github/gitlab, but can be in any openly accessible location. You may NOT host them on exclusively on a discord server, behind paywalls/patreons/ko-fi/etc, or behind any private download links
-- If any new content is made with the information or resources gained via this repository, that new content must also be open source and free of charge
-- No content contains copyright work that does not belong to the owners of the submission unless provided with explicit permission to do so
-- All credit belongs to the original authors of the work
-- All derivatives, versions, or adjustments must contain a copy of this license and must enforce it as well.
+"Authors" Refers to the individuals referenced as contributors on the repository that hosts this license and it's content
+
+"End User" Refers to an individual(or group of individuals) who makes use of the provided content
+
+"Derivative" Refers to any work that makes use of, or a modification of the Content provided in this repository
+
+## Terms
+ - All content is provided as-is without any warranty of any kind, and no entitlement is given to the End User for support of any kind 
+ - All Derivatives must comply with the rules set by Microsoft's "Game Content Usage Rules"(GCUR), which can be viewed at the link https://www.xbox.com/en-US/developers/rules
+ - All Content that uses this license does so retroactively and perpetually unless the owner decides otherwise.
+ - Continued use of copies or derivatives of the Content provided under this license is subject to the terms of this license.  The End User agrees to these new terms upon continued use of the provided content
+ - Modifications of Content provided may be distributed by the End User, However that derivative must be distributed with a copy of this license, must be distributed in a public manner, and must link back the original repository of the modified content 
+ - The end user is not allowed to monetize any Derivative, or gate access to any derivative behind sale or monetization
+- Ownership of the Content provided belongs exclusively to the Authors
+
+## Examples 
+The following section is not legally binding and serves as simple reference/examples for the layperson 
+
+This section reflects the Terms above
+
+This section is subject to change/updates as the author sees fit 
+
+-  Distribution of derivatives must be freely and publicly available and must be distributed with a copy of this license.  For example, you may not distribute a derivative work via sites that are pay-walled like Patreon, or through private sites such as a private discord server.  GitHub/GitLab are highly recommended for distribution
+-  Any work that would violate Microsoft’s GCUR(see above) is not allowed to use, derive, or reference any content that is included under this license
