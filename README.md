@@ -1,15 +1,13 @@
 # Halo Infinite Unity Shader
 An open source unity shader designed to emulate the look of Halo Infinite's shader system
 
-This was designed for use in VRChat, but may be used in other non-profit applications in Unity
+This version has been modified for use with Unity's Univeral Render Pipeline for modding with Boneworks/Bonelab, but may be used in other non-profit applications in Unity
 
 No files in any part of this repository contains or will be allowed to contain copyrighted work that does not belong to the owners of the submission
 
 All versions of this shader, it's derivatives, and similar shaders that use this shader for information, must be open source and available to all free of charge
 
 THIS MAY NOT BE USED FOR COMMERCIAL PURPOSES
-
-[If You Are Looking For The Download Link, Click Here, And Download The 'Source Code (.zip)'](https://github.com/R93Sniper/HaloInfiniteVRCShader/releases/latest)
 
 ----------------------------------------------------------------------------------------------
 
